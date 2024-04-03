@@ -1,1 +1,2 @@
 This is file3
+Modified in first branch
