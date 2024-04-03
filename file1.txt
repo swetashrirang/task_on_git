@@ -1,2 +1,6 @@
 This is file1
+<<<<<<< HEAD
 Modified in second branch
+=======
+Modified in first branch
+>>>>>>> first
